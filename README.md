@@ -9,4 +9,5 @@ What the final product does is to decrypt Vigenere cipher text<br><br>
 ##Project1_AES transformation
 The 1st term-project of the Information Security class.<br>
 Implementation of the AES encryption algorithm<br>
+![image title](https://github.com/plumlike/COSE354-IS2016/blob/master/Project1_AES%2520encryption/AES_transformation/desc_1.PNG)<br>![image title](https://github.com/plumlike/COSE354-IS2016/blob/master/Project1_AES%2520encryption/AES_transformation/desc_2.PNG)
 
